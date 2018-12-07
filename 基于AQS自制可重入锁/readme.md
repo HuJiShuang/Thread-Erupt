@@ -1,0 +1,1 @@
+定义静态内部类，实现AQS类，重写tryacquire()和tryrelase()方法

@@ -1,0 +1,1 @@
+使用Condition接口中的await()和signal()方法实现线程间通信

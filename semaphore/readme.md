@@ -1,0 +1,3 @@
+使用semaphore（信号量）演示流量，
+Semaphore类创建对象时指定限定线程的个数
+主要用到Semaphore中的acquire方法和release方法获得执行权限和释放执行权限

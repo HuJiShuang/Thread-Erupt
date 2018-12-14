@@ -1,0 +1,1 @@
+使用Executor框架的各种方法创建线程池的时候，底层都是用到jdk自带的线程池ThreadPoolExcutor实现的
